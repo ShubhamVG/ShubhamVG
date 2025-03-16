@@ -15,7 +15,4 @@ Yo! I am a 20 y/o lad who goes by LaV (or V The Otter) on the internet.<br>I am 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShubhamVG&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ShubhamVG&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
